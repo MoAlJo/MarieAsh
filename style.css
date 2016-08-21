@@ -1,0 +1,36 @@
+body {
+    background-color:#b3ffd9;
+}
+a{
+    border-style:solid;
+    border-width:2px;
+    font-family:'Pacifico', cursive;
+    font-size:150%;
+    background-color:#ffdccc;
+    color:black;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    color:black;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+}
+button{
+    color:#ffdccc;
+}
+p{
+    color:black;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    color:black;
+}
+#peep{
+    text-align: center;
+    width: 42%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    margin-left:12%;
+}
